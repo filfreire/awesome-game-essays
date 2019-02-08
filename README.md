@@ -1,4 +1,4 @@
-# awesome-game-essays
+# 🎮 awesome-game-essays 🎮
 
 Thoughtful and noteworthy links to awesome videogame "essay" kind of content.
 This repo is still WIP, feel free to submit an issue or PR.
