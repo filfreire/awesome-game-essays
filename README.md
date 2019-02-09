@@ -29,7 +29,7 @@ TBD
 
 - [LGR](https://www.youtube.com/user/phreakindee) - add small description
 
-- ??
+- [LowSpecGamer](https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g) - add small description
 
 ## Noteworthy videos:
 
