@@ -35,6 +35,8 @@ TBD
 
 - [LowSpecGamer](https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g) - dedicates to budget gaming and low graphics analysis, from pushing entry-level and old hardware to its limits to forcing the lowest graphics on modern games by all means possible.
 
+- [Jim Sterling](https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA) - a game critic and raconteur, he runs The Jimquisition as a crowdfunded video series, podcast, and game review site.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
