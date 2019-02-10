@@ -37,6 +37,8 @@ TBD
 
 - [Jim Sterling](https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA) - a game critic and raconteur, he runs The Jimquisition as a crowdfunded video series, podcast, and game review site.
 
+- [YongYea](https://www.youtube.com/user/YongYea) - game news, but also some interesting games review and analysis videos.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
