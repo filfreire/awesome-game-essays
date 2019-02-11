@@ -41,6 +41,8 @@ TBD
 
 - [YongYea](https://www.youtube.com/user/YongYea) - game news, but also some interesting games review and analysis videos.
 
+-[Brackeys](https://www.youtube.com/user/Brackeys) - game development tutorials on everything from Unity and programming to game design.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
