@@ -21,6 +21,8 @@ TBD
 
 - [Farlands](https://www.youtube.com/channel/UCKmGmd4K-Kv17fu0TMJ5Z0A) - provides analysis of the inner workings of games and video game design.
 
+- [GameMakersToolkit](https://www.youtube.com/user/McBacon1337) - interesting videos on game design.
+
 - [2kliksphilip](https://www.youtube.com/user/2kliksphilip) - reviews and analysis videos related to videogames, gaming hardware and other. Also has a channel ([3kliksphilip](https://www.youtube.com/user/3kliksphilip)) dedicated to Counter Strike related analysis and a more personal channel ([kliksphilip](https://www.youtube.com/user/kliksphilip)) where you can find analysis of his life producing content on the other two channels.
 
 - [UpIsNotJump](https://www.youtube.com/user/hamlin351) - does analysis games videos with a comedic approach.
