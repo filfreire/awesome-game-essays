@@ -43,6 +43,12 @@ TBD
 
 - [Brackeys](https://www.youtube.com/user/Brackeys) - game development tutorials on everything from Unity and programming to game design.
 
+- [Ahoy](https://www.youtube.com/user/XboxAhoy) - does lengthy and insightful gaming related analysis videos.
+
+- [Crowbcat](https://www.youtube.com/user/CrowbCat) - informative/experimental analysis or discussion videos about videogames.
+
+- [videogamedunkey](https://www.youtube.com/user/videogamedunkey) - comedic (and insightful) essays about videogames.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
