@@ -54,6 +54,7 @@ TBD
 ## Noteworthy videos<a name="videos"></a>
 
 - [Thief vs. AAA Gaming](https://www.youtube.com/watch?v=jPqwDGXxLhU)
+- [The Early Days of Id Software](https://www.youtube.com/watch?v=KFziBfvAFnM) - John Romero tells about how Id Software developed their games. The talk is more oriented towards game developers audience, but it's generally entertaining.
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
