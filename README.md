@@ -49,6 +49,16 @@ TBD
 
 - [videogamedunkey](https://www.youtube.com/user/videogamedunkey) - comedic (and insightful) essays about videogames.
 
+- [Design Doc](https://www.youtube.com/user/Warbot40) - various topics on game design with illustrative motion graphics and visual aids.
+
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - games: how they are made, what they mean, and how we can make them better. Also topics about history and sci-fi.
+
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) - Game Developers Conference: Talks and lectures.
+
+- [no-clip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) - crowdfunded video game documentaries.
+
+- [Game Score Fanfare](https://www.youtube.com/channel/UC8P_raHQ4EoWTSH2GMESMQA) - soundtrack analysis for video games.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
