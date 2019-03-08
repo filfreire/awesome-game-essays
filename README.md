@@ -59,6 +59,8 @@ TBD
 
 - [Game Score Fanfare](https://www.youtube.com/channel/UC8P_raHQ4EoWTSH2GMESMQA) - soundtrack analysis for video games.
 
+- [MandaloreGaming](https://www.youtube.com/channel/UClOGLGPOqlAiLmOvXW5lKbw) - game reviews of both new and older games.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
