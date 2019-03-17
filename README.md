@@ -61,7 +61,7 @@ TBD
 
 - [MandaloreGaming](https://www.youtube.com/channel/UClOGLGPOqlAiLmOvXW5lKbw) - game reviews of both new and older games.
 
-- [Slim Tengi](https://www.youtube.com/channel/UCzX-Ysm2g19qeHxu8wu5bQQ) - video essays, overing interesting topics primarily in video games, movies and business.
+- [Slim Tengi](https://www.youtube.com/channel/UCzX-Ysm2g19qeHxu8wu5bQQ) - video essays, covering interesting topics primarily in video games, movies and business.
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
