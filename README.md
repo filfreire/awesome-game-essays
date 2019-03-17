@@ -61,6 +61,8 @@ TBD
 
 - [MandaloreGaming](https://www.youtube.com/channel/UClOGLGPOqlAiLmOvXW5lKbw) - game reviews of both new and older games.
 
+- [CryMor Gaming](https://www.youtube.com/channel/UCEqX3NzHsxP9MV7YIdq2JzA) - creates visual thinkpieces, or "Video Essays," on a wide range of topics related to Video Games.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
