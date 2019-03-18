@@ -65,7 +65,7 @@ TBD
 
 - [CryMor Gaming](https://www.youtube.com/channel/UCEqX3NzHsxP9MV7YIdq2JzA) - creates visual thinkpieces, or "Video Essays," on a wide range of topics related to Video Games.
 
-- [Thomas Brush](https://www.youtube.com/user/thomasmbrush/about) - indie game developer, with videos forlearning more about game development and just the arts in general.
+- [Thomas Brush](https://www.youtube.com/user/thomasmbrush/about) - indie game developer, with videos for learning more about game development and just the arts in general.
 
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
