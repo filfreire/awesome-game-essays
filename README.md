@@ -67,6 +67,8 @@ TBD
 
 - [Thomas Brush](https://www.youtube.com/user/thomasmbrush) - indie game developer, with videos for learning more about game development and just the arts in general.
 
+- [NakeyJakey](https://www.youtube.com/channel/UCSdma21fnJzgmPodhC9SJ3g) - entertaining an interesting review and discussion videos about games in general.
+
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
