@@ -76,8 +76,7 @@ TBD
 ## Noteworthy videos<a name="videos"></a>
 
 - [Thief vs. AAA Gaming](https://www.youtube.com/watch?v=jPqwDGXxLhU)
-- [The Early Days of Id Software](https://www.youtube.com/watch?v=KFziBfvAFnM) - John Romero tells about how Id Software developed their games. The talk is more oriented towards game developers audience, but it's generally entert
-ning.
+- [The Early Days of Id Software](https://www.youtube.com/watch?v=KFziBfvAFnM) - John Romero tells about how Id Software developed their games. The talk is more oriented towards game developers audience, but it's generally entertaining.
 - ["Games as a service" is fraud](https://youtu.be/tUAX0gnZ3Nw) - an interesting case about GaaS.
 - ["Unionization, Steady Careers, and Generations of Games Culture"](https://www.youtube.com/watch?v=2TSB5YQqDiY) - interesting case about crunch and unionization in games industry.
 - ["The Most Profound Moment in Gaming History"](https://www.youtube.com/watch?v=jIYBod0ge3Y) and [Part 2](https://www.youtube.com/watch?v=PZojlidqhcM)
