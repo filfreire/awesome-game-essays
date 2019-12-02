@@ -71,6 +71,8 @@ TBD
 
 - [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) - show aimed at helping the world better understand how AI makes for better games.
 
+- [Jacob Geller](https://www.youtube.com/user/yacobg42) - deep video essays on several topics, most of them related with games.
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
@@ -81,6 +83,7 @@ TBD
 - ["Unionization, Steady Careers, and Generations of Games Culture"](https://www.youtube.com/watch?v=2TSB5YQqDiY) - interesting case about crunch and unionization in games industry.
 - ["The Most Profound Moment in Gaming History"](https://www.youtube.com/watch?v=jIYBod0ge3Y) and [Part 2](https://www.youtube.com/watch?v=PZojlidqhcM)
 - ["The Secrets of GoldenEye's AI Revealed"](https://youtu.be/M9sOE376tzk)
+- [Artificial Loneliness](https://www.youtube.com/watch?v=hUwTh4uSILg)
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
