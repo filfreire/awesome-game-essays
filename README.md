@@ -91,5 +91,7 @@ TBD
 
 - ["What Metal Gear Solid 2 Teaches Us About The Information Age"](http://www.gamesetwatch.com/2010/06/what_metal_gear_solid_teaches.php)
 
+- ["Death Stranding: The Kotaku Review"](https://kotaku.com/death-stranding-the-kotaku-review-1839474313)
+
 > Know some interesting particular written article to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
