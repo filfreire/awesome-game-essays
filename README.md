@@ -73,6 +73,8 @@ TBD
 
 - [Jacob Geller](https://www.youtube.com/user/yacobg42) - deep video essays on several topics, most of them related with games.
 
+- [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw) - psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment (like video games)
+
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
