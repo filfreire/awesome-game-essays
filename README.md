@@ -73,7 +73,9 @@ TBD
 
 - [Jacob Geller](https://www.youtube.com/user/yacobg42) - deep video essays on several topics, most of them related with games.
 
-- [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw) - psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment (like video games)
+- [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw) - psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment (like video games).
+
+- [Steve of Warr](https://www.youtube.com/user/Squallxx1ionhart) - game reviews of both new and older games and a series of thoughtful retrospective videos on the tomb raider original series (CORE Design era).
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
