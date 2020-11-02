@@ -86,6 +86,7 @@ TBD
 - ["The Most Profound Moment in Gaming History"](https://www.youtube.com/watch?v=jIYBod0ge3Y) and [Part 2](https://www.youtube.com/watch?v=PZojlidqhcM)
 - ["The Secrets of GoldenEye's AI Revealed"](https://youtu.be/M9sOE376tzk)
 - [Artificial Loneliness](https://www.youtube.com/watch?v=hUwTh4uSILg)
+- [Caves of Qud Review](https://www.youtube.com/watch?v=o_PBfLbd3zw)
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
