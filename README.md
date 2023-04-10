@@ -26,6 +26,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/filfre
 - [The Art of Doing Nothing](https://www.youtube.com/watch?v=7PvzpPlsIoE)
 - [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA)
 - [Video Game Pricing](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
+- [Games you can never play again.](https://www.youtube.com/watch?v=gPHdypbzUU8)
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
@@ -68,6 +69,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/filfre
 - [Jacob Geller](https://www.youtube.com/user/yacobg42)
 - [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw)
 - [Steve of Warr](https://www.youtube.com/user/Squallxx1ionhart)
+- [The Cursed Judge](https://www.youtube.com/@TheCursedJudge)
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
