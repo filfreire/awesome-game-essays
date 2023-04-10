@@ -70,6 +70,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/filfre
 - [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw)
 - [Steve of Warr](https://www.youtube.com/user/Squallxx1ionhart)
 - [The Cursed Judge](https://www.youtube.com/@TheCursedJudge)
+- [Shesez / BoundaryBreak](https://www.youtube.com/@BoundaryBreak)
 
 > Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
