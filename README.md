@@ -27,6 +27,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/filfre
 - [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA)
 - [Video Game Pricing](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
 - [Games you can never play again.](https://www.youtube.com/watch?v=gPHdypbzUU8)
+- ["Invisible" Sound Design in Breath of the Wild](https://www.youtube.com/watch?v=Vgev9Gzybk8)
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
