@@ -28,6 +28,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/filfre
 - [Video Game Pricing](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
 - [Games you can never play again.](https://www.youtube.com/watch?v=gPHdypbzUU8)
 - ["Invisible" Sound Design in Breath of the Wild](https://www.youtube.com/watch?v=Vgev9Gzybk8)
+- [The Case Against Visual Fidelity](https://www.youtube.com/watch?v=ylV5R-Z-ZGg)
 
 > Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
 
